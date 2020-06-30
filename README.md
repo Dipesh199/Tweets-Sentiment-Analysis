@@ -9,8 +9,6 @@ It is free to use this code or any modification to the code will be helpful to o
 If this code is useful or want to help, Here is the donation link to support for startup community. 
 
 # paypal : paypal.me/dipeshkorat
-# phonepe : +91 81400 23063
-# paytm : +91 81400 23063
 
 Thank you, And don't forget to clone this repo.....
 Have a blessed future ahead
